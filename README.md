@@ -23,7 +23,7 @@ The goals were simple
 To make the problem easier, based on many years of experience, a short list of the best pubs in Jersey was provided.
 
 
-
+## Work in progress - code needs updating and readme needs completion
 
 
 
